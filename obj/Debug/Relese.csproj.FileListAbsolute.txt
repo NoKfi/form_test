@@ -1,0 +1,10 @@
+C:\Users\STARTER\source\repos\Relese\Relese\bin\Debug\Relese.exe.config
+C:\Users\STARTER\source\repos\Relese\Relese\bin\Debug\Relese.exe
+C:\Users\STARTER\source\repos\Relese\Relese\bin\Debug\Relese.pdb
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.csprojAssemblyReference.cache
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.Form1.resources
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.Properties.Resources.resources
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.csproj.GenerateResource.cache
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.csproj.CoreCompileInputs.cache
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.exe
+C:\Users\STARTER\source\repos\Relese\Relese\obj\Debug\Relese.pdb
